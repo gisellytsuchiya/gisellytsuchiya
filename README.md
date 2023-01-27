@@ -5,8 +5,8 @@
   
 <div align="center">
   <a href="https://github.com/gisellytsuchiya">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gisellytsuchiya&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gisellytsuchiya&layout=compact&langs_count=7&theme=cobalt"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gisellytsuchiya&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gisellytsuchiya&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gisellytsuchiya&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
