@@ -3,11 +3,19 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Tenho 24 anos e sou <strong>Desenvolvedor Mobile</strong>.
+  🚀Estudante de Programação | Criadora de Sites Simples & Eficazes
 
-Graduando em Desenvolvimento Mobile na Universidade Anhanguera, e atualmente estou empenhado em aprimorar minhas habilidades como desenvolvedora. Estou cursando o Curso Aplicações Android na Alura.
+ 🎓Em constante aprendizado e evolução no mundo da programação. Aqui você encontra projetos que refletem minha paixão por construir soluções elegantes e funcionais.
 
-Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se você estiver interessado em colaborar ou compartilhar ideias, não hesite em entrar em contato comigo. Adoro conhecer novas pessoas e explorar maneiras de tornar o mundo digital um lugar melhor.
+ 🌐O que eu faço:
+ 
+ Desenvolvimento de sites simples, mas impactantes.
+ Designs responsivos e funcionais.
+ Implemantação de soluções que ajudam a destacar o seu negócio.
+ 
+ 💼Procurando colaborações e oportunidades para criar algo incrível.
+
+ 🌟Vamos transformar suas ideias em realidade? Dê uma olhada nos meus projetos e sinta-se à vontade para me contatar!
 
 <h2 align="left">
  🦄 Linguagens:
@@ -28,7 +36,7 @@ Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se vo
 <a href="https://wa.me/message/6X5HVEQWSR5UJ1" title="WhatsApp" target="_blank">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 
-<a href="https://www.instagram.com/gih_tsuchiya/" title="Instagram" target="_blank">
+<a href="https://www.instagram.com/gih_volpi/" title="Instagram" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <br>
 <br>
